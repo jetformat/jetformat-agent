@@ -1,0 +1,8 @@
+{
+  "name": "jetformat",
+  "description": "Jetformat plugins for Claude Code",
+  "owner": { "name": "Jetformat", "url": "https://jetformat.com" },
+  "plugins": [
+    { "name": "jetformat", "source": "./", "description": "Office to PDF, PDF to Word, and PDF tools through the local Jetformat CLI" }
+  ]
+}

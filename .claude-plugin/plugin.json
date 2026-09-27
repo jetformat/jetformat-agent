@@ -1,0 +1,11 @@
+{
+  "name": "jetformat",
+  "displayName": "Jetformat",
+  "version": "0.1.0",
+  "description": "Word, Excel, and PowerPoint to PDF, PDF to Word, text extraction, and PDF tools through the local Jetformat CLI. No desktop office suite.",
+  "author": { "name": "Jetformat", "url": "https://jetformat.com" },
+  "homepage": "https://jetformat.com/for-agents",
+  "repository": "https://github.com/jetformat/jetformat-agent",
+  "license": "MIT",
+  "keywords": ["pdf", "docx", "xlsx", "pptx", "word-to-pdf", "office"]
+}

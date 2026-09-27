@@ -1,0 +1,12 @@
+{
+  "name": "jetformat",
+  "interface": { "displayName": "Jetformat" },
+  "plugins": [
+    {
+      "name": "jetformat",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_FIRST_USE" },
+      "category": "Productivity"
+    }
+  ]
+}
