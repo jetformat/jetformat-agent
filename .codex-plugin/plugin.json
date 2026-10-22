@@ -17,6 +17,7 @@
     "privacyPolicyURL": "https://jetformat.com/privacy",
     "termsOfServiceURL": "https://jetformat.com/terms",
     "defaultPrompt": "Convert this Office file to PDF with Jetformat.",
+    "composerIcon": "./assets/logo.png",
     "logo": "./assets/logo.png"
   }
 }
